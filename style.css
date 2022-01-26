@@ -1,0 +1,23 @@
+p {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background: red;
+    text-align: center;
+    border: 1rem solid;
+    width: 250px;
+    margin: 0 auto;
+}
+
+main {
+    border: 1rem solid;
+}
+
+footer {
+    border: 1rem solid;
+}
